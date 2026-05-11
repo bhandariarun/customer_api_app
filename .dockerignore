@@ -1,0 +1,17 @@
+.venv
+venv
+__pycache__
+*.py[cod]
+*.pyo
+*.pyd
+*.swp
+*.swo
+*.coverage
+.coverage.*
+htmlcov
+dist
+build
+.eggs
+*.egg-info
+.env
+.git
